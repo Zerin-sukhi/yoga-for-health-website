@@ -1,0 +1,13 @@
+.yoga{
+    display: flex;
+    justify-content: center;
+    padding-right: 50px;
+}
+.para{
+    padding-right: 50px;
+}
+.about{
+    color: green;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}

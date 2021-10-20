@@ -1,0 +1,19 @@
+.registration{
+    display: flex;
+    justify-content: center;
+}
+
+.form{
+    margin-left: 400px;
+    margin-top: 70px;
+    margin-right: 50px;
+    margin-bottom: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+
+}
+img{
+    height: 600px;
+    width: 700px;
+    margin-top: 80px;
+}

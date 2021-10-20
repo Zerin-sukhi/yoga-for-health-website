@@ -1,0 +1,10 @@
+.card img{
+ width: 200px;
+ height: 200px;
+ margin-left: 200px;
+}
+.card{
+    width: 600px;
+    height: 550px;
+    background-color:gray;
+}

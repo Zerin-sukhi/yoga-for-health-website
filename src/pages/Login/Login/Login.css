@@ -1,0 +1,18 @@
+.form{
+    padding: 20px;
+    margin-top: 70px;
+    margin-right: 50px;
+    border: 1px solid gray;
+    border-radius: 10px;
+
+}
+
+
+
+.logiN{
+    width: 400px;
+    height: 40px;
+    background-color:rgb(50, 124, 75);
+    color: white;
+    font-size: 20px;
+}

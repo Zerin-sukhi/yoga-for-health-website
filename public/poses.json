@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Child Pose",
+        "img": "https://www.gaia.com/wp-content/uploads/article-migration-image-1920x1080_Childspose.jpg",
+        "Description": "This calming pose is a good default pause position. You can use child’s pose to rest and refocus before continuing to your next pose. It gently stretches your lower back, hips, thighs, knees and ankles and relaxes your spine, shoulders and neck."
+    },
+    {
+        "id": 2,
+        "name": "Downward-Facing Dog",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTO_0sVqTjvDjN7jcSvsAJf_lcApyNM2yBXKA&usqp=CAU",
+        "Description": "Downward-facing dog strengthens the arms, shoulders and back while stretching the hamstrings, calves and arches of your feet. It can also help relieve back pain."
+    },
+    {
+        "id": 3,
+        "name": "Plank Pose",
+        "img": "https://cdn.lessons.com/assets/images/courses/yoga/dolphin-plank-yoga-pose.jpg",
+        "Description": "A commonly seen exercise, plank helps build strength in the core, shoulders, arms and legs."
+    },
+    {
+        "id": 4,
+        "name": "Four-Limbed Staff Pose",
+        "img": "https://47h07141n4wr3s4gyj49ii1d-wpengine.netdna-ssl.com/wp-content/uploads/2019/10/Chattarunga-for-Pose-Section-1200x800.jpeg",
+        "Description": "This push-up variation follows plank pose in a common yoga sequence known as the sun salutation. It is a good pose to learn if you want to eventually work on more advanced poses, such as arm balances or inversions."
+    },
+    {
+        "id": 5,
+        "name": "Cobra Pose",
+        "img": "https://cdn.shopify.com/s/files/1/0059/0056/6597/products/photo-id-6598897991749-woman-practicing-cobra-pose-yoga-asana.jpg?v=1622129833",
+        "Description": "This back-bending pose can help strengthen the back muscles, increase spinal flexibility and stretches the chest, shoulders and abdomen."
+    },
+    {
+        "id": 6,
+        "name": "Tree Pose",
+        "img": "https://www.verywellfit.com/thmb/Sgy_FHtDtEl8wctggFasfjH3rhg=/3000x2000/filters:fill(FFDB5D,1)/About-50-4111744-Tree-Pose02-641-5c4b762cc9e77c00016f33b6.jpg",
+        "Description": "Beyond helping improve your balance, it can also strengthen your core, ankles, calves, thighs and spine."
+    },
+    {
+        "id": 7,
+        "name": "Triangle Pose",
+        "img": "https://www.ekhartyoga.com/media/images/articles/content/Triangle-Pose-Utthita-trikonasana-Esther-Ekhart.jpg",
+        "Description": "Triangle, which is a part of many yoga sequences helps build strength in the legs and stretches the hips, spine, chest, shoulders, groins, hamstrings and calves. It can also help increase mobility in the hips and neck."
+    },
+    {
+        "id": 8,
+        "name": "Seated Half-Spinal Twist Pose",
+        "img": "https://www.yogajournal.com/wp-content/uploads/2007/08/half-lord-of-the-fishes-pose.jpg",
+        "Description": "This twisting pose can increase the flexibility in your back, while stretching the shoulders, hips and chest. It can also help relieve tension in the middle of your back."
+    },
+    {
+        "id": 9,
+        "name": "Bridge Pose",
+        "img": "https://www.verywellfit.com/thmb/EAJb-k_0tYPIe_NesNznR9mGQ6Y=/3000x2000/filters:fill(FFDB5D,1)/55-3567138-WheelPose-004-b768aa1db0ff4ba99e01947e2ffb5b84.jpg",
+        "Description": "This is a back-bending pose that stretches the muscles of the chest, back and neck. It also builds strength in the back and hamstring muscles."
+    },
+    {
+        "id": 10,
+        "name": "Corpse Pose",
+        "img": "https://www.yogabasics.com/yogabasics2017/wp-content/uploads/2013/11/Shavasana_9879.jpg",
+        "Description": "Like life, yoga classes typically end with this pose. It allows for a moment of relaxation, but some people find it difficult to stay still in this pose. However, the more you try this pose, the easier it is to sink into a relaxing, meditative state."
+    }
+]

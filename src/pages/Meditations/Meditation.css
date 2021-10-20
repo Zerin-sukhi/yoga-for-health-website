@@ -1,0 +1,15 @@
+.yoga{
+    display: flex;
+    justify-content: center;
+    padding-right: 50;
+    padding-left: 50px;
+}
+.pic{
+height: 350px;
+width: 500px;
+}
+.paragraph{
+    font-size: 20px;
+    padding-left: 50px;
+    width: 500px;
+}
